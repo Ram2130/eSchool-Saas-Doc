@@ -16,9 +16,9 @@ const config = {
 
   // Set the production url of your site here
   url: 'https://Ram2130.github.io', // Your GitHub Pages URL
-  baseUrl: '/Smartvidhya/', // The repository name, preceded by a slash
+  baseUrl: '/eSchool-Saas-Doc/', // The repository name, preceded by a slash
   organizationName: 'Smart vidhya', // Your GitHub username
-  projectName: 'Smart Vidhya Doc', // Your repository name
+  projectName: 'eSchool-Saas-Doc', // Your repository name
   trailingSlash: true,
   deploymentBranch: "gh-pages", // Deployment branch for GitHub Pages
   onBrokenLinks: 'throw',
